@@ -1,3 +1,5 @@
 <?php
-echo "c la branche numéro 2 intitulé feature-0002-deuxieme_branch";
+echo "hello world";
+
+echo "merge with deuxieme branch is ok";
 ?>
