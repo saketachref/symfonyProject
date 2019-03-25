@@ -1,5 +1,5 @@
 <?php
-echo "hello world";
+echo "hello warld";
 
 echo "merge with deuxieme branch is ok";
 ?>
